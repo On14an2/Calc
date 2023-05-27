@@ -1,0 +1,17 @@
+C:\Users\on14an\Source\Repos\SimpleCalc\bin\Debug\net6.0-windows\Calc1.exe
+C:\Users\on14an\Source\Repos\SimpleCalc\bin\Debug\net6.0-windows\Calc1.deps.json
+C:\Users\on14an\Source\Repos\SimpleCalc\bin\Debug\net6.0-windows\Calc1.runtimeconfig.json
+C:\Users\on14an\Source\Repos\SimpleCalc\bin\Debug\net6.0-windows\Calc1.dll
+C:\Users\on14an\Source\Repos\SimpleCalc\bin\Debug\net6.0-windows\Calc1.pdb
+C:\Users\on14an\Source\Repos\SimpleCalc\obj\Debug\net6.0-windows\Calc1.csproj.AssemblyReference.cache
+C:\Users\on14an\Source\Repos\SimpleCalc\obj\Debug\net6.0-windows\Calc1.Form1.resources
+C:\Users\on14an\Source\Repos\SimpleCalc\obj\Debug\net6.0-windows\Calc1.csproj.GenerateResource.cache
+C:\Users\on14an\Source\Repos\SimpleCalc\obj\Debug\net6.0-windows\Calc1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\on14an\Source\Repos\SimpleCalc\obj\Debug\net6.0-windows\Calc1.AssemblyInfoInputs.cache
+C:\Users\on14an\Source\Repos\SimpleCalc\obj\Debug\net6.0-windows\Calc1.AssemblyInfo.cs
+C:\Users\on14an\Source\Repos\SimpleCalc\obj\Debug\net6.0-windows\Calc1.csproj.CoreCompileInputs.cache
+C:\Users\on14an\Source\Repos\SimpleCalc\obj\Debug\net6.0-windows\Calc1.dll
+C:\Users\on14an\Source\Repos\SimpleCalc\obj\Debug\net6.0-windows\refint\Calc1.dll
+C:\Users\on14an\Source\Repos\SimpleCalc\obj\Debug\net6.0-windows\Calc1.pdb
+C:\Users\on14an\Source\Repos\SimpleCalc\obj\Debug\net6.0-windows\Calc1.genruntimeconfig.cache
+C:\Users\on14an\Source\Repos\SimpleCalc\obj\Debug\net6.0-windows\ref\Calc1.dll
